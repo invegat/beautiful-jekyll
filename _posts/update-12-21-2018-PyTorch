@@ -4,5 +4,5 @@ title: PyTorch
 subtitle: Data Science/AI
 ---
 
-###Use of a python library torch.cuda to make a neural net that predicts Kepler transit time uncertaintity and identfied outliers. 
+###Use of the python library torch.cuda to make a neural net that predicts Kepler transit time uncertaintity and identfied outliers. 
 

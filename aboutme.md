@@ -7,9 +7,8 @@ subtitle: Data Science
 My name is Mark Oliver. I have the following qualities:
 
 - Bacholor of Science in Pysics
-- Lambda School Full Stack Web Development and Data Science/AI
-
-What else do you need?
+- [Data Science/AI](https://lambdaschool.com/courses/data-science/ "Lambda School")
+- [Full Stack Web Devlopment](https://lambdaschool.com/courses/cs/web/ "Lambda School")
 
 ### my history
 

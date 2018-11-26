@@ -6,8 +6,8 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Mark Oliver. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Bacholor of Science in Pysics
+- Lambda School Full Stack Web Development and Data Science/AI
 
 What else do you need?
 
